@@ -1,9 +1,36 @@
-# SuperMario
+I made the Super Mario. I used the Unity Editor and C# for coding. I want to explain What I did.
 
-I'll be starting in a couple days.
+-Player Movement.
 
-I made the environment stuffs. 12.05.2023
+-Player's Animation.
 
-I just did player control. 13.05.2023
+-Blocks.
 
-I'm working on enemies for now.
+-Backgrounds.
+
+-Flag Pole.
+
+-Falg Pole's Animation.
+
+-Pipes.
+
+-Pipes' Movement.
+
+-Following Camera.
+
+-Power Ups.
+
+-Enemies.
+
+-Enemies' Movement.
+
+-Enemies' Animation.
+
+-Collisions.
+
+-Obstacles.
+
+-GameManager.
+
+-Game States.
+
