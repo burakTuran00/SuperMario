@@ -10,7 +10,7 @@ I made the Super Mario. I used the Unity Editor and C# for coding. I want to exp
 
 -Flag Pole.
 
--Falg Pole's Animation.
+-Flag Pole's Animation.
 
 -Pipes.
 
